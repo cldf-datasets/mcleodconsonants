@@ -1,0 +1,65 @@
+Language	Dialect	Source	SourceID	Country of data collection	Sample size	Monolingual/multilingual	Age range	Design	SW/CS/I	Age of acquisition data	Percentage correct reported
+Afrikaans	Cape Town	Lotter (1974)	lotter1974a	South Africa	999	First	36–114	Cr	SW	C, CC	—
+Arabic	Jordanian	Amayreh & Dyson (1998)	amayreh1998a	Jordan	180	Mono	24–76	Cr	SW	C	PCC
+	Kuwaiti	Alquattan (2015)	alquattan2015a	Kuwait	70	Mono	16–43	Cr	CS	C, CC	PCCa
+	Kuwaiti	Ayyad et al. (2016)	ayyad2016a	Kuwait	80	Mono	46–62	Cr	SW	C, CC, V	—
+Cantonese	Hong Kong	Cheung (1990)	cheung1990a	Hong Kong	155	—	25–72	Cr	SW	C, V	—
+	Hong Kong	So & Dodd (1995)	so1995a	Hong Kong	268	Mono	24–71	Cr	SW, CS	C, V, T	—
+	Hong Kong	To et al. (2013)	to2013a	Hong Kong	1,726	First	18–148	Cr	SW	C, V, T	—
+Danish	—	Clausen & Fox-Boyer (2011)	clausen2011a	Denmark	80	Mono	24–71	Cr	SW	C	—
+	—	Clausen & Fox-Boyer (2017)	clausen2017a	Denmark	443	Mono	30–59	Cr	SW	C, CC, V	PCC, PVC
+Dutch	Standard	Beers (1995)	beers1995a	The Netherlands	90	Mono	15–48	Cr	CS	C	—
+	Standard	Van Severen (2013)	van2013a	Belgium	30	Mono	6–24	L	CS	C	—
+English	American	Arlt & Goodban (1976)	arlt1976a	United States	240	Mono	36–72	Cr	SW	C, CC, V	—
+	Australian	Chirlian & Sharpley (1982)	chirlian1982a	Australia	1,375	Mono	24–108	Cr	SW	C	—
+	British	Dodd et al. (2003)	dodd2003a	United Kingdom	684	Mono	36–83	Cr	SW, I	C, CC, V	PCC, PVC, PPC
+	Australian	Kilminster & Laird (1978)	kilminster1978a	Australia	1,756	Mono	35–109	Cr	SW	C	—
+	Australian	McIntosh & Dodd (2008)	mcIntosh2008a	Australia	62	—	25–35	L	SW	C, CC	PCC, PVC, PPC
+	African American	Pearson et al. (2009)	pearson2009a	United States	537	Mono	48–155	Cr	CS	C, CC	—
+	American (Mainstream)	Pearson et al. (2009)	pearson2009a	United States	317	Mono	48–155	Cr	CS	C, CC	—
+	American	Poole (1934)	poole1934a	United States	140	—	42–90	Cr	SW	C	—
+	American (General)	Prather et al. (1975)	prather1975a	United States	147	Mono	23–48	Cr	SW	C	—
+	American (Standard Midwestern dialect)	Smit et al. (1990)	smit1990a	United States	997	Mono	36–108	Cr	SW	C, CC	—
+	American (General)	Templin (1957)	templin1957a	United States	480	—	36–96	Cr	SW	C, CC, V	—
+	American (General)	Wellman et al. (1931)	wellman1931a	United States	240	Mono	24–83	Cr	SW	C, CC, V	—
+	Cape Town, South African	Mowrer & Burger (1991)b	mowrer1991ab	South Africa	70	Mono	30–72	Cr	SW	C	—
+	Irish	Monaghan (2014)	monaghan2014a	Republic of Ireland	60	Mono	36–71	Cr	SW	C	PCCa
+	Malay	Phoon (2010)	phoon2010a	Malaysia	264	Multi	36–95	Cr	SW	C, CC, V	PCC, PVC, PPC
+French	Québécois	MacLeod et al. (2011)	macLeod2011a	Canada	156	Mono	20–53	Cr	SW	C, CC, V	PCC
+German	—	Fox & Dodd (1999)c	fox1999ac	Germany	177	—	18–71	Cr	SW	C, CC, V	PCC, PVCa, PPC
+Greek	—	Papadopoulou (2000)	papadopoulou2000a	Greece	34	—	43–54	Cr	SW	C, CC, V	—
+	Cypriot	Petinou & Theodorou (2016)	petinou2016a	Cyprus	14	First	24–36	L	CS	C	—
+Haitian Creole	—	Archer et al. (2013)d	archer2013ad	Haiti	12	Mono	24–51	Cr	SW	C, CC	—
+Hebrew	Israeli	Ben-David (2001)	ben-David2001a	—	10	—	10–42	L	SW, CS	C, CC, V	—
+Hungarian	—	Nagy (1980)	nagy1980a	Hungary	7,602	—	36–96	Cr	SW, CS	C, V	PCC
+Icelandic	—	Másdóttir & Stokes (2016)	másdóttir2016a	Iceland	28	Mono	28–40	L	SW, CS	C	—
+Italian	—	Zmarich & Bonifacio (2005)	zmarich2005a	Italy	13	Mono	18–27	L	CS	C, CC	—
+Jamaican Creole	—	Meade (2001)	meade2001a	Jamaica	24	Multi	12–54	L	CS	C, CC, V	—
+Japanese	—	Nakanishi (1982)	nakanishi1982a	Japan	10	—	12–48	L	SW	C, V	—
+	—	Nakanishi et al. (1972)	nakanishi1972a	Japan	1,689	—	48–83	Cr	SW	C	—
+	—	Noda et al. (1969)	noda1969a	Japan	466	—	24–78	Cr	SW	C	—
+	—	Sakauchi (1967)	sakauchi1967a	Japan	134	—	34–56	Cr	SW	C, CC	—
+	—	Takagi & Yasuda (1967)	takagi1967a	Japan	133	—	42–72	Cr	SW	C	—
+Korean	—	M. Kim & Pae (2005)	m.2005a	South Korea	220	—	30–76	Cr	SW	C, CC	PCCa
+	—	Y. Kim (1996)	y.1996a	South Korea	155	—	24–72	Cr	SW	C	—
+	—	Oum (1986)	oum1986a	South Korea	150	—	36–60	Cr	SW	C	—
+	—	Pae (1995)	pae1995a	South Korea	320	—	5–85	Cr	CS	C	—
+Malay	Penang	Phoon et al. (2014)	phoon2014a	Malaysia	326	First	48–77	Cr	SW	C	PCC
+Maltese	—	Grech (1998)	grech1998a	Malta	21	—	24–42	L	SW, CS	C, CC, V	—
+Mandarin (Putonghua)	Beijing	Hua & Dodd (2000)	hua2000a	China	129	Mono	18–54	Cr	SW, CS	C, V, T	—
+Portuguese	Brazilian	Salviano Santini (1995)	salviano1995a	Brazil	192	Mono	24–82	Cr	SW	C, CC	PCC
+	Brazilian	Silva et al. (2012)	silva2012a	Brazil	240	—	36–95	Cr	SW	C	PCC
+				Brazil	240	—	36–95	Cr	SW	C	PCC
+Setswana (Tswana)	SeKwêna	Mahura & Pascoe (2016)	mahura2016a	South Africa	36	First	36–71	Cr	SW	C, V	PCC, PVC
+Slovenian	Maribor	Marin (2013)	marin2013a	Slovenia	70	—	29–67	Cr	SW	C, CC	—
+Spanish	Dominican	De la Fuenta (1985)	de1985a	Dominican Republic	55	Mono	23–77	Cr	SW	C	—
+	Mexican	Jimenez (1987)	jimenez1987a	United States	120	First	36–67	Cr	SW	C	—
+	Mexican (Chihuahua)	Linares (1981)	linares1981a	Mexico	97	Mono	36–83	Cr	SW	C	—
+	New Mexico	Linares (1981)	linares1981a	United States	148	Mono	60–107	Cr	SW	C	—
+Swahili	—	Gangji et al. (2014)	gangji2014a	Tanzania	24	First	36–71	Cr	SW	C, CC, V	PCC, PVC
+Turkish	—	Topbaş (1997)	topbaş1997a	Turkey	22	—	12–36	Cr, L	CS	C, CC	—
+	—	Topbaş & Yavaş (2006)	topbaş2006a	Turkey	665	Mono	12–107	Cr, L	SW, CS	C, CC	PCC
+	—	Yalcinkaya et al. (2010)	yalcinkaya2010a	Turkey	753	—	12–83	Cr	SW	C	—
+Xhosa	—	Maphalala et al. (2014)	maphalala2014a	South Africa	24	First	36–72	Cr	SW	C	PCC, PVC
+	Cape Town, South African	Mowrer & Burger (1991)b	mowrer1991ab	South Africa	70	Mono	30–72	Cr	SW	C	—
+	—	Toumi et al. (2001)	toumi2001a	South Africa	10						
